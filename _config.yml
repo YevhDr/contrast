@@ -15,7 +15,7 @@ navigation:
   - index.html
   - about.md
   - archive.html
-  - about.md
+ 
 
 comments:
   disqus: "disqus-contrast"
