@@ -10,6 +10,7 @@ layout: blank
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
     </header>
 {{ page.excerpt }}
+    <h2>bla-bla</h2>
     {% unless page.excerpt == page.content %}
     <footer><a class="ghost" href="{{ page.url | prepend: site.baseurl }}">{{ site.more }}</a></footer>
     {% endunless %}
