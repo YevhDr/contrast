@@ -15,7 +15,7 @@ navigation:
   - index.html
   - about.md
   - archive.html
-  - http://texty.org.ua/d/top2017/
+  - about.md
 
 comments:
   disqus: "disqus-contrast"
