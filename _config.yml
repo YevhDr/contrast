@@ -1,10 +1,9 @@
-title: "Blog Title"
+title: "Агенція журналістики даних"
 author: "Blog Author"
-description: "Really cool blog about ... something"
+description: "Громадська організація Агенція журналістики даних"
 more: "read more »"
-url: "https://niklasbuschmann.github.io/"
-baseurl: "/contrast"
-paginate: 2
+baseurl: "https://YevhDr.github.io/dja"
+paginate: 10
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
 
@@ -22,9 +21,9 @@ comments:
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
-  - twitter: "https://twitter.com/twitter/"
-  - github: "https://github.com/niklasbuschmann/contrast"
-  - envelope: "mailto:niklas.buschmann@posteo.de"
+  - facebook: "https://www.facebook.com/TEXTY.org.ua/"
+  - twitter: "https://twitter.com/textyorgua" 
+  - envelope: "mailto:evgn@ukr.net"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
