@@ -15,6 +15,7 @@ navigation:
   - index.html
   - about.md
   - archive.html
+  - http://texty.org.ua/d/top2017/
 
 comments:
   disqus: "disqus-contrast"
@@ -23,7 +24,7 @@ comments:
 links: # see http://fontawesome.io/icons/#brand for all possible icons
   - facebook: "https://www.facebook.com/TEXTY.org.ua/"
   - twitter: "https://twitter.com/textyorgua" 
-  - envelope: "mailto:evgn@ukr.net"
+ # - envelope: "mailto:evgn@ukr.net"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
