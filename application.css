@@ -22,11 +22,6 @@ a {
     color: #4b444d;
     border-bottom: 2px dotted #cccccc; }
 
-h1 {
-  font-size: 3.5em;
-  line-height: 1.8em;
-  font-weight: bold; }
-
 h2 {
   font-size: 2em;
   line-height: 2em;
@@ -311,10 +306,7 @@ h3 {
   text-transform: uppercase;
   font-weight: 800 !important; }
 
-h1 {
-  text-align: center;
-  font-family: monospace !important;
-  font-size: 9rem !important; }
+
 
 h2 {
   text-align: center;
