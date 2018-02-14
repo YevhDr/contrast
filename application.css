@@ -21,6 +21,13 @@ body {
     color: #4b444d;
     border-bottom: 2px dotted #cccccc; }*/
 
+nav {
+  font-size: 1.5em;
+  margin-top: 50px;
+  margin-bottom:50px; }
+
+
+
 h2 {
   font-size: 2em;
   line-height: 2em;
