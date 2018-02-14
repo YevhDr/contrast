@@ -10,7 +10,7 @@ body {
   /*footer height plus padding*/
   margin-bottom: 200px; }
 
-a {
+/*a {
   color: inherit;
   text-decoration: none; }
   a:link {
@@ -18,9 +18,8 @@ a {
   a:hover {
     color: #FAA61A; }
   a.dotted {
-    /*for links*/
     color: #4b444d;
-    border-bottom: 2px dotted #cccccc; }
+    border-bottom: 2px dotted #cccccc; }*/
 
 h2 {
   font-size: 2em;
@@ -355,9 +354,6 @@ p {
 
 p span {
   background-color: white; }
-
-a {
-  color: #FAA61A !important; }
 
 .hover {
   color: #FAA61A !important; }
